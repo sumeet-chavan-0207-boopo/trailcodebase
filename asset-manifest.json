@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/trailcodebase/static/css/main.d1b05096.chunk.css",
+    "main.js": "/trailcodebase/static/js/main.e7fa129b.chunk.js",
+    "main.js.map": "/trailcodebase/static/js/main.e7fa129b.chunk.js.map",
+    "runtime-main.js": "/trailcodebase/static/js/runtime-main.650a5797.js",
+    "runtime-main.js.map": "/trailcodebase/static/js/runtime-main.650a5797.js.map",
+    "static/js/2.ec1606be.chunk.js": "/trailcodebase/static/js/2.ec1606be.chunk.js",
+    "static/js/2.ec1606be.chunk.js.map": "/trailcodebase/static/js/2.ec1606be.chunk.js.map",
+    "index.html": "/trailcodebase/index.html",
+    "precache-manifest.79f3056c9a8245812d5bbed0f7b0918e.js": "/trailcodebase/precache-manifest.79f3056c9a8245812d5bbed0f7b0918e.js",
+    "service-worker.js": "/trailcodebase/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/trailcodebase/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ec1606be.chunk.js.LICENSE.txt": "/trailcodebase/static/js/2.ec1606be.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/trailcodebase/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.650a5797.js",
+    "static/js/2.ec1606be.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.e7fa129b.chunk.js"
+  ]
+}
